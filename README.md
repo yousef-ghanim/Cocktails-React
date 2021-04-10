@@ -1,12 +1,1 @@
-#### React Router Fix
-
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-# Cocktails-React
+Using API to fetch drinks and filter them by search bar. This a multipages projects that uses React Router.
